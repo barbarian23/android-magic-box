@@ -1,9 +1,9 @@
-import cn from "./cn";
 import en from "./en";
+import kr from "./kr";
 import vn from "./vn";
 
 const resources = {
-    cn,
+    kr,
     en,
     vn
 };
